@@ -6,7 +6,7 @@ The task was to create a simple one-page website for a fictitious tea shop based
 
 ![image](https://user-images.githubusercontent.com/122168069/213885325-bdddacef-51fd-44cc-bbb8-39e4a8bab761.png)
 
-My goal for this project was to replicate and adhere to the provided design spec as closely as possible. I didn't worry about resonsiveness or mobile optimization and focused only on the specific design spec requests. 
+My goal for this project was to replicate and adhere to the provided design spec as closely as possible. I didn't worry about things like resonsiveness or hover states and focused only on the specific design spec requests. 
 
 Shortly after diving in, I hit some initial roadblocks and couldn't seem to find the right solutions via Google. 
 
